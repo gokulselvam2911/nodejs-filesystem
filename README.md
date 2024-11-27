@@ -70,14 +70,14 @@ This project demonstrates how to use **Node.js** and **Express.js** to create an
 ---
 
 ## Folder Structure
-
+``` 
 nodejs-file-system-task/
 │
 ├── files/                  		# Folder where files are stored
 ├── file-system-server.js   	# Main application file
 ├── package.json            	# Project metadata and dependencies
 └── README.md              	 # Project documentation
-
+```
 ---
 
 ## Testing the APIs
