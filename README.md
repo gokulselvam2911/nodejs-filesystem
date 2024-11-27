@@ -24,8 +24,8 @@ This project demonstrates how to use **Node.js** and **Express.js** to create an
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd nodejs-file-system-task
+   git clone <https://github.com/gokulselvam2911/nodejs-filesystem.git>
+   cd nodejs-filesystem
    ```
 2. Install dependencies:
    ```bash
@@ -33,7 +33,7 @@ This project demonstrates how to use **Node.js** and **Express.js** to create an
    ```
 3. Start the server:
    ```bash
-   git clone <repository_url> 
+   git clone <https://github.com/gokulselvam2911/nodejs-filesystem.git> 
    node file-system-server.js
    ```
 4. The server runs at:
@@ -67,17 +67,6 @@ This project demonstrates how to use **Node.js** and **Express.js** to create an
   ["2024-11-27_14-45-00.txt", "2024-11-27_15-00-00.txt"]
   ```
 
----
-
-## Folder Structure
-``` 
-nodejs-file-system-task/
-│
-├── files/                  		# Folder where files are stored
-├── file-system-server.js   	# Main application file
-├── package.json            	# Project metadata and dependencies
-└── README.md              	 # Project documentation
-```
 ---
 
 ## Testing the APIs
